@@ -20,7 +20,8 @@ The pdf when opened normally will look simple and neat:
 
 <img src="/assets/ori_pdf.png" width="600" height="400" />
 
-When I upload the above and open it in the pat portal my script gets executed. I have created two pdf:
+When I upload the above pdf and open it in the pat portal, my script gets executed. 
+I have created two pdf:
 
 1. Will display the cookie
 2. Will display a Message to the User
