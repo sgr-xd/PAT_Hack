@@ -35,7 +35,7 @@ When I upload the above and open it in the pat portal my script gets executed. I
 
 **Displaying Hacked Message:**
 
-<img src="/assets/hack_msg_pat.png" width="400" height="400" />
+<img src="/assets/hack_msg_pat.png" width="600" height="400" />
 
 **Viewing the pdf by clicking the eye button:**
 
