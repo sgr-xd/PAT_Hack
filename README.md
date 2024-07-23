@@ -44,7 +44,7 @@ When I upload the above and open it in the pat portal my script gets executed. I
 **Conclusion:**
 
 **Impacts of an XSS vulnerability via malicious PDF injection using PDF.js < 4.2.67**
-
+When an admin or the user opens it, it leads to:
 1. Theft of Cookies and Session Tokens: Enables session hijacking.
 2. Unauthorized Actions: Allows attackers to perform actions on behalf of the user.
 3. Escalation of Privileges: Provides unauthorized access to restricted areas.
