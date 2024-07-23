@@ -18,7 +18,7 @@ I created a malicious pdf and uploaded the resume in the profile’s resume sect
 The pdf when opened normally will look simple and neat:
 
 
-<img src="/assets/ori_pdf.png" width="400" height="400" />
+<img src="/assets/ori_pdf.png" width="600" height="400" />
 
 When I upload the above and open it in the pat portal my script gets executed. I have created two pdf:
 
@@ -27,11 +27,11 @@ When I upload the above and open it in the pat portal my script gets executed. I
 
 **Displaying Cookie:**
 
-<img src="/assets/cookie_pat.png" width="400" height="400" />
+<img src="/assets/cookie_pat.png" width="600" height="400" />
 
 **Viewing the pdf by clicking the eye button:**
 
-<img src="/assets/cookie_msg.png" width="400" height="400" />
+<img src="/assets/cookie_msg.png" width="600" height="400" />
 
 **Displaying Hacked Message:**
 
@@ -39,7 +39,7 @@ When I upload the above and open it in the pat portal my script gets executed. I
 
 **Viewing the pdf by clicking the eye button:**
 
-<img src="/assets/hack_msg.png" width="400" height="400" />
+<img src="/assets/hack_msg.png" width="600" height="400" />
 
 **Conclusion:**
 
