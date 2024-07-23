@@ -17,7 +17,6 @@ I created a malicious pdf and uploaded the resume in the profile’s resume sect
 
 The pdf when opened normally will look simple and neat:
 
-![PDF Document::](/assets/ori_pdf.png "PDF Document:")
 
 <img src="/assets/ori_pdf.png" width="400" height="400" />
 
@@ -28,19 +27,19 @@ When I upload the above and open it in the pat portal my script gets executed. I
 
 **Displaying Cookie:**
 
-![Cookie Displaying PDF::](/assets/cookie_pat.png "Cookie PDF Document:")
+<img src="/assets/cookie_pat.png" width="400" height="400" />
 
 **Viewing the pdf by clicking the eye button:**
 
-![Cookie Displaying PDF::](/assets/cookie_msg.png "Result of Cookie PDF Document:")
+<img src="/assets/cookie_msg.png" width="400" height="400" />
 
 **Displaying Hacked Message:**
 
-![Message Displaying PDF::](/assets/hack_msg_pat.png "Msg PDF Document:")
+<img src="/assets/hack_msg_pat.png" width="400" height="400" />
 
 **Viewing the pdf by clicking the eye button:**
 
-![Msg Displaying PDF::](/assets/hack_msg.png "Result of Msg PDF Document:")
+<img src="/assets/hack_msg.png" width="400" height="400" />
 
 **Conclusion:**
 
