@@ -17,7 +17,7 @@ I created a malicious pdf and uploaded the resume in the profile’s resume sect
 
 The pdf when opened normally will look simple and neat:
 
-
+![PDF Document::](/assets/ori_pdf.png "PDF Document:")
 
 When I upload the above and open it in the pat portal my script gets executed. I have created two pdf:
 
@@ -26,18 +26,19 @@ When I upload the above and open it in the pat portal my script gets executed. I
 
 **Displaying Cookie:**
 
-
+![Cookie Displaying PDF::](/assets/cookie_pat.png "Cookie PDF Document:")
 
 **Viewing the pdf by clicking the eye button:**
 
+![Cookie Displaying PDF::](/assets/cookie_msg.png "Result of Cookie PDF Document:")
 
 **Displaying Hacked Message:**
 
-
+![Message Displaying PDF::](/assets/hack_msg_pat.png "Msg PDF Document:")
 
 **Viewing the pdf by clicking the eye button:**
 
-
+![Msg Displaying PDF::](/assets/hack_msg.png "Result of Msg PDF Document:")
 
 **Conclusion:**
 
@@ -59,3 +60,4 @@ When I upload the above and open it in the pat portal my script gets executed. I
 2. Firefox should be updated to > v126)
 
 **Video POC:**
+
