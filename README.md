@@ -17,7 +17,9 @@ I created a malicious pdf and uploaded the resume in the profile’s resume sect
 
 The pdf when opened normally will look simple and neat:
 
-![PDF Document::](/assets/ori_pdf.png =100x20 "PDF Document:")
+![PDF Document::](/assets/ori_pdf.png "PDF Document:")
+
+<img src="/assets/ori_pdf.png" width="200" height="200" />
 
 When I upload the above and open it in the pat portal my script gets executed. I have created two pdf:
 
