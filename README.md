@@ -60,7 +60,8 @@ When I upload the above and open it in the pat portal my script gets executed. I
 2. Firefox should be updated to > v126)
 
 **Video POC:**
-<img width="582" alt="Screenshot 2024-07-23 at 6 58 45 PM" src="https://github.com/user-attachments/assets/cf588145-8892-4407-b49b-5a5cee3e497c">
+
+https://github.com/user-attachments/assets/b84926ad-613a-4788-bba6-03cbbf8e16b5
 
 
 
